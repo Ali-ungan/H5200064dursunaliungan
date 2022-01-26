@@ -1,73 +1,83 @@
 [{
+ "AdiSoyadi": "Benjamin Graham",
+ "Servet": "400 Milyon Dolar",
+ "ResimURL": "https://github.com/Ali-ungan/H5200064dursunaliungan/raw/main/warrenBuffet.png",
+ "Yas": "82",
+ "Aciklama": "Benjamin Graham alanında uzman olan bir yatırım uzmanı ve finansal eğitimcidir. Diğer eserlerinin yanında yatırım ile ilgili klasikleşmiş iki kitap yazmıştır. Ayrıca kendisi güvenlik analizi ve değer yatırımı isimli iki temel yatırım disiplinin babası olarak görülmektedir. Graham'ın değer yatırımının özü herhangi bir yatırımın bir yatırımcının ödemesi gerekenden önemli ölçüde daha değerli olmasıdır. Temel analizin doğru olduğunu düşünmekteydi. Kendisi güçlü bilançoları olan ya da az borca sahip, ortalamanın üzerinde kâr marjı olan ve yüksek nakit akışlı olan şirketleri aramıştır.
+"
+},
+
+ {
+ "AdiSoyadi": "John Templeton",
+ "Servet": "15 Milyar Dolar",
+ "ResimURL": "https://github.com/Ali-ungan/H5200064dursunaliungan/raw/main/warrenBuffet.png",
+ "Yas": "96",
+ "Aciklama": "John Templeton'un Büyük Buhran sırasında az satın alım yaptığı, İnternet patlaması sırasında yüksek satışlar yaptığı ve bu iki dönem arasında iyi anlaşmalar yaptığı söylenmektedir. Templeton dünyanın en büyük ve en başarılı uluslararası yatırım fonlarını yaratmıştır. Kendisi fonlarını 1992 yılında Franklin Grup'a satmıştır. 1999'da Money dergisi onu 'muhtemelen yüzyılın en büyük küresel hisse senedi alıcısı' olarak nitelendirmiştir. Bahamalar'da yaşamış bir İngiliz vatandaşı olan Templeton başarılarından dolayı Kraliçe II. Elizabeth tarafından şövalye ilan edilmiştir.
+"
+},
+
+ {
+ "AdiSoyadi": "John Neff",
+ "Servet": "17.5 Milyar Dolar",
+ "ResimURL": "https://github.com/Ali-ungan/H5200064dursunaliungan/raw/main/warrenBuffet.png",
+ "Yas": "88",
+ "Aciklama": "Neff, Wellington Yatırım Şirketi'ne 1964'te katılmıştır ve 30 yıldan fazla bir süre burada çalışarak şirketin üç fonunu yönetmiştir. Kendisinin tercih ettiği yatırım taktiğine göre popüler endüstrilere dolaylı yoldan yatırım yapmak gerekmekteydi ve düşük F / K oranlarına ve güçlü kâr getirilerine sahip şirketlere odaklandığı için bir değer yatırımcısı olarak görülmekteydi. Windsor Fonu'nu 31 yıl boyunca yönetmiştir ve aynı zaman aralığında S&P 500 için %10.6'ya karşılık  %13.7'lik bir getiri elde etmiştir. Bu ölçüde bir kazanç 1964 yılında yapılan bir ilk yatırımın elli üç katından fazlasına denk gelmektedir.
+"
+},
+ {
+ "AdiSoyadi": "Jesse Livermore",
+ "Servet": "7 Milyar Dolar",
+ "ResimURL": "https://github.com/Ali-ungan/H5200064dursunaliungan/raw/main/warrenBuffet.png",
+ "Yas": "63",
+ "Aciklama": "Jesse Livermore'un konu üzerine eğitimi ya da hisse senedi ticareti deneyimi bulunmamaktaydı. Kendisi başarı ve hatalarından ders çıkararak işini öğrenmiştir. Bu başarı ve hatalar onun çimento ticareti fikirlerinin ortaya çıkmasına yardımcı olmuştur. Fikirleri hala piyasada bulunmaktadır. Livermore gençliğinden itibaren kendisi için ticarete başlamıştır ve on altı yaşındayken o zamanlar için çok yüksek bir meblağ olan bin doların üzerinde kazanımlar elde etmiştir. İlerleyen yıllarda müşterilerin hisse senetlerinin hareketlerine göre bahis oynadığı 'bucket shop' ismi verilen resmi ticaret yapmayan işletmelere karşı hisse senetlerine parasını yatırmıştır.
+"
+},
+ {
+ "AdiSoyadi": "Peter Lynch",
+ "Servet": "450 Milyon Dolar",
+ "ResimURL": "https://github.com/Ali-ungan/H5200064dursunaliungan/raw/main/warrenBuffet.png",
+ "Yas": "78",
+ "Aciklama": "Peter Lynch 1977 yılından 1990 yılına kadar Fidelity Magellan Fonu'nu yönetmiştir. Bu süre içerisinde fonun değeri 18 milyon dolardan 14 milyar dolara yükselmiştir. Lynch'in fonu yönettiği on üç yılın on birinde yıllık %29 getiri elde ederek S&P 500 Endeksi ölçütlerini geçtiği bilinmektedir. Peter Lynch dönemde kullanılan her hisse senedi stiline adapte olabilmesi ile tanınmıştır. Fakat belirli hisse senetlerinin seçilmesi gerektiği zaman kendi bildiği ya da kolayca anlayabildiği yöntemleri tercih etmiştir.
+"
+},
+ {
+ "AdiSoyadi": "George Soros",
+ "Servet": "8.6 Milyar Dolar",
+ "ResimURL": "https://github.com/Ali-ungan/H5200064dursunaliungan/raw/main/warrenBuffet.png",
+ "Yas": "91",
+ "Aciklama": "George Soros yüzeysel ekonomik trendleri gelişmiş bonolara ve değerlere getirmekteki ustalığıyla tanınırdı. Bir yatırımcı olarak kısa süreli tahminlerde bulunmaktaydı ve finans piyasaları üzerine büyük bahislere girdiği bilinmektedir. 1973 yılında 1973'te sonrasında tanınmış ve saygın bir fon olan Quantum Fonu'na dönüşen Soros Fon Yönetimi şirketini kurmuştur. Neredeyse yirmi yıl boyunca yılda yüzde otuz kazanç sağlayan ve iki kez yılda yüzde yüzden fazla kazanç getiren bu başarılı fonu yönetmiştir.
+"
+},
+ {
  "AdiSoyadi": "Warren Buffet",
  "Servet": "110.5 Milyar Dolar",
  "ResimURL": "https://github.com/Ali-ungan/H5200064dursunaliungan/raw/main/warrenBuffet.png",
  "Yas": "91",
- "Aciklama": "Warren Edward Buffett (30 Ağustos 1930, Nebraska), Amerikalı iş adamı ve hisse senedi yatırımcısıdır. 20. Yüzyılın en başarılı yatırımcılarından biri olarak gösterilmektedir. Berkshire Hathaway yatırım şirketinin CEO'su ve en büyük hissedarıdır."
+ "Aciklama": "'Omaha'nın Kahini' olarak nitelendirilen Warren Buffett tarihteki en başarılı yatırımcılardan biri olarak görülmektedir. Benjamin Graham'ın prensiplerini takip etmiş ve çoğunlukla Berkshire Hathaway isimli şirketi aracılığıyla aldığı hisse senetleri ve şirketler ile milyarlarca dolarlık bir servete sahip olmuştur. 1965 yılında Berkshire Hathaway'e 10 bin dolar yatırım yapanların yatırımlarının değeri bugün 165 milyon doların üzerindedir. Buffett'ın disiplin, sabır ve değeri içeren yatırım tarzı yıllardır piyasada oldukça başarılı olmasını sağlamıştır.
+"
 },
-
- {
-   "AdiSoyadi": "Bernard Arnault & Ailesi",
-   "Varlik": "195.5 Milyar Dolar",
-   "ResimURL": "https://raw.githubusercontent.com/utkuyucel/H5200028utkuyucel/main/Bernard.jpg",
-   "Ulke": "Fransa",
-   "Aciklama": "birçok farklı şirketi satın aldı ve son derece prestijli bir marka olan Christian Dior‘u ve Le Bon Marché alışveriş merkezinin yeni sahibi oldu. 1987 yılında Louis Vuitton ile Moët Hennessy birleşince yeni şirketin adı LVMH oldu. Arnault bu yeni şirketin hisselerine milyonlarca dolar yatırdı ve LVMH’nin ilk hissedarı oldu. Sonra haliyle yönetim kurulu başkanı seçildi ve derhal çok kapsamlı bir büyüme planını uygulamaya başladı. Bu plan kapsamında LVMH’yi dünyanın en büyük lüks ürün satan şirketlerden biri haline getirdi."
- },
-
- {
-   "AdiSoyadi": "Jeff Bezos",
-   "Varlik": "188.4 Milyar Dolar",
-   "ResimURL": "https://raw.githubusercontent.com/utkuyucel/H5200028utkuyucel/main/Jeff.jpg",
-   "Ulke": "Amerika Birleşik Devletleri",
-   "Aciklama" : "Jeff Bezos, amazon.com ile dünyanın daha önce hiç görmediği bir şeyi kurdu. İnternet’in en tanınmış markasını yarattı, dünyanın en zengin adamlarından biri oldu. Jeff Bezos, internetin en çok alışveriş yapıldığı internet sitelerinden birisi olan, 16 Temmuz 1995 tarihinde kurulan “amazon.com” adresinin kurucusu ve sahibidir. Bu büyük markanın kurucusu Jeff Bezos, markasını sözlükten arayarak bulmuş. Markanın ilk harfinin “A” olmasını özellikle isteyen Jeff, alfabetik sıralarda üste çıkmanın fark yaratabileceğini düşünmüş. Sözlükten “A” harfiyle başlayan kelimeleri araştırırken, dünyanın en büyük nehri olarak kabul edilen Amazon nehrini bulmuş ve bu isimde karar kılmış. Amazon ismini seçmesinin sebebi olarak, birgün şirketinin bu kadar büyük olmasını istemesi yatıyor."
- },
- {
-   "AdiSoyadi": "Bill Gates",
-   "Varlik": "135.8 Milyar Dolar",
-   "ResimURL": "https://raw.githubusercontent.com/utkuyucel/H5200028utkuyucel/main/Bill_Gates.jpg",
-   "Ulke": "Amerika Birleşik Devletleri",
-   "Aciklama": "MS-DOS işletme sisteminin grafik bir iyileştirmesi olan WINDOWS’un geliştirilmesi çalışmalarına Gates 1985 yılında başlamıştı. WINDOWS’u piyasaya sürdükten (1987) üç yıl sonra bir pazarlama kampanyasıyla başarılı oldular. Microsoft bu sistemi sürekli olarak daha ileri program elemanlarıyla genişletiyordu. Gates özellikle WINDOWS’u daha basit ve daha kullanışlı bir biçime sokmaya önem veriyordu. Microsoft 1993‘te tartışmasız piyasanın lideriydi (yıllık ciro: 3,75 milyar dolar; borsa değeri: 20 milyar doların üstünde)."
- },
- {
-   "AdiSoyadi": "Larry Ellison",
-   "Varlik": "119.5 Milyar Dolar",
-   "ResimURL": "https://raw.githubusercontent.com/utkuyucel/H5200028utkuyucel/main/Larry_Ellison.jpg",
-   "Ulke": "Amerika Birleşik Devletleri",
-   "Aciklama": "arry Ellison,Microsoft en büyük rakiplerinden biri olan Oracle tüm satın aldığı şirketlerle kurumsal pazarda Microsoft ve SAP'ın en büyük rakibi olmayı başardı. Son satın aldığı şirket Siebel'ın kullanıcıları arasında dev bilişim şirketleri de var. Önceleri veri tabanı yazılımı konusunda büyük pazar payına sahip şirket, yaptığı satın almalarla profilini değiştirdi. Artık sadece veritabanı şirketi olmaktan çok uzakta. Önce uygulama yazılımı pazarına giren şirket, daha sonra en büyük satın almasını gerçekleştirdi."
- },
- {
-   "AdiSoyadi": "Mark Zuckerberg",
-   "Varlik": "117.5 Milyar Dolar",
-   "ResimURL": "https://raw.githubusercontent.com/utkuyucel/H5200028utkuyucel/main/Mark_Zuckerberg.jpg",
-   "Ulke": "Amerika Birleşik Devletleri",
-   "Aciklama" : "Zuckerberg, 2004 yılında Harvard Üniversitesi'nden girişimci arkadaşları Dustin Moskovitz, Eduardo Saverin ve Chris Hughes ile şu anda CEO'su olduğu sosyal paylaşım sitesi Facebook'u kurarak dünyanın şu anki en genç zengini olmasıyla tanınmaktadır. 2010 yılında ise Time dergisince, Yılın Adamı seçilmiştir"
- },
- {
-   "AdiSoyadi": "Larry Page",
-   "Varlik": "117.3 Milyar Dolar",
-   "ResimURL": "https://raw.githubusercontent.com/utkuyucel/H5200028utkuyucel/main/Larry_Page.jpg",
-   "Ulke": "Amerika Birleşik Devletleri",
-   "Aciklama" : "Lawrence Page veya bilinen adıyla Larry Page (26 Mart 1973, Michigan), web arama motoru Google'ın temel algoritmalarının geliştiricisi ve Sergey Brin ile birlikte Google şirketinin kurucusu olan Amerikalı yazılım mühendisi ve girişimcidir. Şu an Alphabet Inc. şirketinin yönetim kurulu başkanı konumundadır. Yahudi kökenlidir"
- },
- {
-   "AdiSoyadi": "Warren Buffett",
-   "Varlik": "115.6 Milyar Dolar",
-   "ResimURL": "https://raw.githubusercontent.com/utkuyucel/H5200028utkuyucel/main/Warren_Buffett.jpg",
-   "Ulke": "Amerika Birleşik Devletleri",
-   "Aciklama" : "Warren Edward Buffett (30 Ağustos 1930, Nebraska), Amerikalı iş adamı ve hisse senedi yatırımcısıdır. 20. Yüzyılın en başarılı yatırımcılarından biri olarak gösterilmektedir. Berkshire Hathaway yatırım şirketinin CEO'su ve en büyük hissedarıdır. Forbes Dergisi'nin '2008 Milyarderler Listesi'ne göre 62 milyar dolarlık servetiyle dünyanın en zengin insanıdır. Aynı zamanda 2012 yılında Time dergisinin yaptığı araştırmada, dünyanın en etkili insanlarından birisi olarak gösterilmiştir."
- },
- {
-   "AdiSoyadi": "Sergey Brin",
-   "Varlik": "113.1 Milyar Dolar",
-   "ResimURL": "https://raw.githubusercontent.com/utkuyucel/H5200028utkuyucel/main/Sergey_Brin.jpg",
-   "Ulke": "Amerika Birleşik Devletleri",
-   "Aciklama" : "Larry Page ile birlikte Google'ı kuran Amerikalı yazılım mühendisi ve internet girişimcisidir. 3 Aralık 2019'daki görevinden ayrılmasına kadar Brin, Google'ın ana şirketi Alphabet, Inc.'in başkanıydı. Günümüzde Brin ve Larry Page, Alphabet üzerinde kurucu ortak, hâkim hissedarlar, ve yönetim kurulu üyeleri olarak kalmaya devam ediyor."
- },
- {
-   "AdiSoyadi": "Steve Ballmer",
-   "Varlik": "100 Milyar Dolar",
-   "ResimURL": "https://raw.githubusercontent.com/utkuyucel/H5200028utkuyucel/main/Steve_Ballmer.jpg",
-   "Ulke": "Amerika Birleşik Devletleri",
-   "Aciklama": "Steven Anthony 'Steve' Ballmer, (d. 24 Mart 1956 Detroit, ABD) Microsoft'un 1986 daki 1.0 reklamına çıkan kişi ve Microsoft'un 2000 yılından beri yönetim kurulu başkanı olan Amerikan iş adamı. Babası İsveç göçmeni annesi ise yahudi.Forbes dergisinde 2006 en zenginler arasında 84. sırayı almıştır. 2009 yılında Bill Gates'in yerini aldı ve 2013 yılına kadar Microsoft CEO'su olarak görevine devam etti."
- }
+{
+ "AdiSoyadi": "John (Jack) Bogle",
+ "Servet": "9 Milyar Dolar",
+ "ResimURL": "https://github.com/Ali-ungan/H5200064dursunaliungan/raw/main/warrenBuffet.png",
+ "Yas": "90",
+ "Aciklama": "Bogle 1975 yılında yatırım fonu şirketi olan Vanguard Grup'u kurmuştur ve bu şirketi dünyanın en büyük ve saygın fon sponsorlarından biri haline getirmiştir. Bogle yüksüz yatırım fonuna öncülük etmiştir ve milyonlarca yatırımcı için düşük maliyetli endeks yatırımını desteklemiştir. Kendisi ilk endeks fonu olan Vanguard 500'ü 1976 yılında yaratmış ve tanıtmıştır. Jack Bogle'ın yatırım felsefesi yüksüz, düşük maliyetli, düşük cirolu ve pasif olarak yönetilen geniş tabanlı endeks yatırım fonlarına yatırım yapmayı ve piyasa getirilerini yakalamayı içermektedir.
+"
+},
+{
+ "AdiSoyadi": "Carl Icahn",
+ "Servet": "16 Milyar Dolar",
+ "ResimURL": "https://github.com/Ali-ungan/H5200064dursunaliungan/raw/main/warrenBuffet.png",
+ "Yas": "85",
+ "Aciklama": "Carl Icahn halka açık şirketlerdeki mülkiyet pozisyonlarını kullanarak değişiklik getiren ve bu şekilde hisse senetlerinin değerini arttıran bir yatırımcıdır. Icahn kurumsal kariyerine 1970'lerde başlamıştır ve 1985 yılında TWA'yı devralmıştır. Kendisi 'Icahn Lift' ile ünlüdür. Bu Carl Icahn'ın kötü yönetildiğine inandığı bir şirketin hisselerini satın almaya başladığında meydana gelen yukarı doğru sıçramayı tanımlayan Wall Street'te ünlü olan bir deyimdir.
+"
+},
+{
+ "AdiSoyadi": "William H. Gross",
+ "Servet": "3.7 Milyar Dolar",
+ "ResimURL": "https://github.com/Ali-ungan/H5200064dursunaliungan/raw/main/warrenBuffet.png",
+ "Yas": "77",
+ "Aciklama": "'Bonoların kralı' olarak görülen William Gross dünyanın önde gelen bono fonu yöneticilerindendir. PIMCO bono fonları ailesinin kurucusu ve yöneticisi olarak kendisinin ve ekibinin yönetim altındaki sabit gelirleri 1.92 trilyon dolardan fazladır. Kendisi 1996 yılında bono ve portföy analizi konusundaki başarılarından dolayı Sabit Gelir Analisti Derneği Şirketi'nin şöhret listesine alınan ilk portföy yöneticisi olmuştur.
+"
+}
 ]
